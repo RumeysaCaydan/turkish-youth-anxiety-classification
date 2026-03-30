@@ -19,7 +19,7 @@ It also:
 
 ## Requirements
 
-- Python 3.10+ (you’re currently using 3.13)
+- Python 3.10+ ( currently using 3.13)
 - PostgreSQL (localhost:5432)
 - (Recommended) Virtual environment: `venv` / `conda`
 
